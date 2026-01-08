@@ -1,0 +1,6 @@
+libraries used in the project
+pandas
+numpy
+scikit-learn
+matplotlib
+scipy
